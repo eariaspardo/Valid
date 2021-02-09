@@ -1,0 +1,46 @@
+package pruebasCodigo;
+
+import java.math.BigDecimal;
+import java.sql.Timestamp;
+import java.text.SimpleDateFormat;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.util.Date;
+
+import pruebasCodigo.enums.TransaccionType;
+import pruebasCodigo.servicio.Cuenta;
+
+public class Ejemplo {
+	
+
+	public static void main(String[] args) {
+		
+		Cuenta cuenta = new Cuenta();
+		
+		//System.out.println("Balance antes de la transaccion "+cuenta.getBalance());
+		TransaccionType.COMPRAR.doTransacionOperation(BigDecimal.valueOf(100), cuenta);
+		//System.out.println("Balance despues de la transaccion "+cuenta.getBalance());
+		
+		SimpleDateFormat dateFormatter = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
+		//System.out.println(dateFormatter.format(new Date()));
+		
+        Timestamp ts = Timestamp.valueOf(dateFormatter.format(new Date()));  
+        //System.out.println(new Date());
+        
+        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("uuuu-MM-dd HH:mm:ss");
+        
+        
+        String documento, urlDetalle, getByDocumentoPath, tipoDocumento, paisID;
+        documento="documento"; 
+        urlDetalle = "urlDetalle";
+        getByDocumentoPath = "getByDocumentoPath";
+        tipoDocumento = "tipoDocumento";
+        paisID = "paisID";
+        
+        
+        System.out.println(String.format("%s%s%s%s%s", urlDetalle, getByDocumentoPath, documento, tipoDocumento, paisID));
+        
+		
+	}
+	
+}

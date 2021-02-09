@@ -1,0 +1,13 @@
+
+_
+java:S1135¾"2Complete the task associated to this TODO comment.(¥²Ã¬HßŞRINFOZ
+CODE_SMELL
+‚
+java:S11923"RDefine a constant instead of duplicating this literal "== Request: %s ==" 6 times.(úªõHàŞRCRITICALZ
+CODE_SMELL
+ˆ
+java:S1192J"SDefine a constant instead of duplicating this literal "== Response: %s ==" 4 times.(–‹œÏúÿÿÿÿHáŞRCRITICALZ
+CODE_SMELL
+ƒ
+java:S3776ú"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ØŞ­HâŞRCRITICALZ
+CODE_SMELL

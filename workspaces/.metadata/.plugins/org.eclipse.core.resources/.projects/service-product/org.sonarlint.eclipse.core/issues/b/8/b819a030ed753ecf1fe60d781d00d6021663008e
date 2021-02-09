@@ -1,0 +1,25 @@
+
+ˆ
+java:S1488%"\Immediately return this expression instead of assigning it to the temporary variable "user".(Á´ƒÕHç,RMINORZ
+CODE_SMELL
+
+java:S1488."_Immediately return this expression instead of assigning it to the temporary variable "userDes".(©˜ØÚüÿÿÿÿHè,RMINORZ
+CODE_SMELL
+‘
+java:S14885"`Immediately return this expression instead of assigning it to the temporary variable "usuarios".(õíÀÕùÿÿÿÿHé,RMINORZ
+CODE_SMELL
+‘
+java:S1488;"`Immediately return this expression instead of assigning it to the temporary variable "usuarios".(€ÄÂ•ûÿÿÿÿHê,RMINORZ
+CODE_SMELL
+
+java:S1488A"\Immediately return this expression instead of assigning it to the temporary variable "user".(©§ïŸûÿÿÿÿHë,RMINORZ
+CODE_SMELL
+r
+java:S4684,"@Replace this persistent entity with a simple POJO or DTO object.(ÔŒ×³Hì,RCRITICALZVULNERABILITY
+r
+java:S4684O"@Replace this persistent entity with a simple POJO or DTO object.(ÈİãóHí,RCRITICALZVULNERABILITY
+l	java:S125I"<This block of commented-out lines of code should be removed.(™ƒÈ¹ÿÿÿÿÿHî,RMAJORZ
+CODE_SMELL
+X
+java:S1068"'Remove this unused "log" private field.(—‰üêÿÿÿÿÿHï,RMAJORZ
+CODE_SMELL

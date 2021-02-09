@@ -1,0 +1,28 @@
+
+s
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8óâÑéî.HİÊRMINORZ
+CODE_SMELL
+k
+java:S1128"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8óâÑéî.HŞÊRMINORZ
+CODE_SMELL
+_
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8óâÑéî.HßÊRMINORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.sql.Timestamp'.(èò½+8óâÑéî.HàÊRMINORZ
+CODE_SMELL
+q	java:S106"9Replace this use of System.out or System.err by a logger.(÷Ñ‘ úÿÿÿÿ8óâÑéî.HáÊRMAJORZ
+CODE_SMELL
+‹	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Ã¯ÑÿÿÿÿÿHâÊRMINORZ
+CODE_SMELL
+o	java:S125"<This block of commented-out lines of code should be removed.(ôƒô˜8İã Ü.HãÊRMAJORZ
+CODE_SMELL
+f
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿHäÊRMINORZ
+CODE_SMELL
+q	java:S106#"9Replace this use of System.out or System.err by a logger.(û÷í¾şÿÿÿÿ8óâÑéî.HåÊRMAJORZ
+CODE_SMELL
+l	java:S106"9Replace this use of System.out or System.err by a logger.(•Ñ¼ß8óâÑéî.HæÊRMAJORZ
+CODE_SMELL
+o	java:S125"<This block of commented-out lines of code should be removed.(Àÿıú8İã Ü.HçÊRMAJORZ
+CODE_SMELL
